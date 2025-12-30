@@ -24,7 +24,7 @@ Features / Charts Included
 Datasets Used
 --------------
 
-All files are stored in `datasets/` folder.
+All files are stored in `Cricket WorldCup Dashboard Data` folder.
 
 - WorldCupResults.csv  
 - PlayerStats.csv  
@@ -35,7 +35,7 @@ All files are stored in `datasets/` folder.
 Dashboard Preview
 ------------------
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 
 
